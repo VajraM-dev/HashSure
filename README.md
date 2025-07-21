@@ -1,4 +1,4 @@
-# File Validation Project
+# HashSure Project
 
 This project provides a platform for document integrity verification using SHA256 and HMAC, with a Rust backend for hashing, a FastAPI server for API endpoints, and a Python client SDK.
 
