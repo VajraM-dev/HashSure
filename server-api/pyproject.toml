@@ -1,0 +1,17 @@
+[project]
+name = "server-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.116.1",
+    "hvac>=2.3.0",
+    "maturin>=1.9.1",
+    "psycopg2>=2.9.10",
+    "python-dotenv>=1.1.1",
+    "python-multipart>=0.0.20",
+    "requests>=2.32.4",
+    "sqlalchemy>=2.0.41",
+    "uvicorn>=0.35.0",
+]
